@@ -1,1 +1,1 @@
-const classData = [ <script src="data/classes.js"></script>
+const classData = [ <script src="data/classes.js"></script> }
